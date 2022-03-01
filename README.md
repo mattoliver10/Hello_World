@@ -5,7 +5,7 @@ This was a way for me to develop a baseline in skills that will help me improve 
 ### About me
 I am currently a junior at the University of Iowa. I am a majoring in Business Analytics and Accounting. I have been mainly been focusing on Accounting so far as that is the industry with which I am more interested in. I am from Naperville, Illinois and I hope to someday find a job in the city of Chicago.
 #### Files Used
-[GitHub Pages](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+[GitHub Pages](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 ##### Additional Documentation
 _I had no additional documentation for this repository._
 ###### Version Summary
