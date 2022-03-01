@@ -1,10 +1,10 @@
-***# Project Title ***
+# Project Title
 
-**## Description**__
+## Description
 
-_### How to Run Program_
-***#### Files Used
+### How to Run Program
+#### Files Used
 
-**##### Additional Documentation**
+##### Additional Documentation
 
-_###### Version Summary_
+###### Version Summary
